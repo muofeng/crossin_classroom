@@ -1,0 +1,6 @@
+name=input('name:')
+age=eval(input('age:'))
+GPA=eval(input('GPA:'))
+print('You are %s, %d years old, your GPA is %.2f' %(name,age,GPA))
+result='%s,age:%d,GPA:%.2f' %(name,age,GPA)
+print(result)

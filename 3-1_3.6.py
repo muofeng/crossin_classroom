@@ -1,0 +1,6 @@
+print('What',end="'")
+print('s your name?')
+name=input()
+print('How old are you?')
+age=eval(input())
+print('You are',name,', your age is',age)
